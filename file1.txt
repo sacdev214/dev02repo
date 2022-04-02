@@ -1,1 +1,2 @@
 "This is my first file for git demo"
+Hi, This is the second line in the file
